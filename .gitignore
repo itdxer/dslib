@@ -1,0 +1,12 @@
+# Python cache
+__pycache__
+*.pyc
+*.py~
+
+# Other
+.checkpoint
+
+# Package build data
+dist/
+build/
+*.egg-info/
